@@ -1,3 +1,7 @@
 This is first file of demo for git repository.
 Hello, this is Nithyashree
 Hi,this is Manoj.
+I am adding few more lines.
+This is Nirmala.
+This is Ammanemma
+Nithya ia smart girl.

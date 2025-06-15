@@ -1,1 +1,3 @@
 This is first file of demo for git repository.
+Hello, this is Nithyashree
+Hi,this is Manoj.

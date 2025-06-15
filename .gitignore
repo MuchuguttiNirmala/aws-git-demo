@@ -1,0 +1,11 @@
+#ignore nirmala.txt file
+nirmala.txt
+
+#ignore .bkp files
+*.bkp
+
+#ignore .jar files
+*.jar
+
+#ignore .txt if any filename starts with letter x/y/x
+[xyz]*.txt
